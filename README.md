@@ -9,7 +9,8 @@ make
 </tr>
 
 <tr>
-◦ number_of_philosophers: The number of philosophers and also the number of forks.
+<td>number_of_philosophers</td> 
+<td>The number of philosophers and also the number of forks.</td>
 </tr>
 
 <tr>
